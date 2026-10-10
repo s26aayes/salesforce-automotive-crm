@@ -1,18 +1,9 @@
 ## CRM Dashboard
 
 ![Automotive CRM Dashboard](docs/screenshots/crm-dashboard.png)
+![Automotive CRM Dashboard](docs/screenshots/crm-dashboard-2.png)
+![Automotive CRM Dashboard](docs/screenshots/crm-dashboard-3.png)
 
-## Salesforce Flow Automation
-
-![Salesforce Flow Builder](docs/screenshots/flow-builder.png)
-
-### Flow Configuration
-
-![Flow Configuration](docs/screenshots/flow-config.png)
-
-### Automated Follow-up Task
-
-![Automated Follow-up Task](docs/screenshots/automated-task.png)
 
 ## Flow Configuration
 
