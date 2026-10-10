@@ -6,6 +6,14 @@
 
 ![Salesforce Flow Builder](docs/screenshots/flow-builder.png)
 
+### Flow Configuration
+
+![Flow Configuration](docs/screenshots/flow-config.png)
+
+### Automated Follow-up Task
+
+![Automated Follow-up Task](docs/screenshots/automated-task.png)
+
 ## Flow Configuration
 
 ![Flow Configuration](docs/screenshots/flow-config.png)
