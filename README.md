@@ -4,7 +4,7 @@
 
 ## Salesforce Flow Automation
 
-![Flow Builder](docs/screenshots/flow-builder.png)
+![Salesforce Flow Builder](docs/screenshots/flow-builder.png)
 
 ## Flow Configuration
 
