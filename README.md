@@ -1,3 +1,18 @@
+## CRM Dashboard
+
+![Automotive CRM Dashboard](docs/screenshots/crm-dashboard.png)
+
+## Salesforce Flow Automation
+
+![Flow Builder](docs/screenshots/flow-builder.png)
+
+## Flow Configuration
+
+![Flow Configuration](docs/screenshots/flow-config.png)
+
+## Automated Follow-up Task
+
+![Automated Task](docs/screenshots/automated-task.png)
 # Automotive CRM & Customer Data Quality — Salesforce
 
 A hands-on Salesforce CRM project demonstrating customer data management,
